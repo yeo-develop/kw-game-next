@@ -1,0 +1,2 @@
+cbddfa4ec49ff137a4fe3d6cf2c01affebc3f8a4
+2026-10-31 14:11 웹(v4): game-ci CLI 버전 고정 (v0.1.72) — latest 조회 403 으로 배포 실패 반복
